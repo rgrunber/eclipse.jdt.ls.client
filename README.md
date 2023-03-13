@@ -1,3 +1,7 @@
+# This Repository Has Moved !
+
+Active development is now done at https://github.com/mickaelistria/eclipseide-jdtls. Follow https://github.com/mickaelistria/eclipseide-jdtls/issues/29 for further details.
+
 # Java edition in Eclipse IDE, using the JDT Language Server
 
 This repository implements a client for JDT-LS to provide edition of .java files in the Eclipse IDE. This can be used as an alternative to Eclipse JDT. Installation of Eclipse JDT is not required for this plugin to work; the JDT Language Server is referenced as an external application (so far).
